@@ -13,8 +13,6 @@
 
 <br/>
 
-## [Live Deploy Link](https://drain.on.fleek.co/)
-
 ## Network Support
 
 <img src="https://i.imgur.com/QXyHETu.png" title="network support" />
@@ -27,6 +25,4 @@
 
 Fleek, IPFS, Polygon, Next.js, etc.
 
-## EthMexico
 
-To view the full project description, read [the EthMexico project page](https://ethglobal.com/showcase/drain-6f9sc)
