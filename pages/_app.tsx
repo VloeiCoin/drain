@@ -58,7 +58,7 @@ const App = ({ Component, pageProps }: AppProps) => {
       <WagmiConfig config={wagmiConfig}>
         <RainbowKitProvider coolMode chains={chains}>
           <NextHead>
-            <title>Drain</title>
+            <title>Token Drain</title>
             <meta
               name="description"
               content="Send all tokens from one wallet to another"
